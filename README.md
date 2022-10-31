@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMarcinS
+- 👋 Hi, I’m @Andy
 - 👀 I’m interested in ... Crypto Currency 
 - 🌱 I’m currently learning ... Haskell
 - 💞️ I’m looking to collaborate on ... 
